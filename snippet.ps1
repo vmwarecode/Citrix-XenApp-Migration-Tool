@@ -1,0 +1,1 @@
+migrationCLI.cmd  <host> <username> <password> <domain>
